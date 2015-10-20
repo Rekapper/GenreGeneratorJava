@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
        NewRelic.withApplicationToken(
-               "AA73f27d11d8831436998c93ef190d43f0def5c6af"
+               "Hidden Token"
        ).start(this.getApplication());
 
        //ads
