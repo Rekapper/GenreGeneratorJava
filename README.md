@@ -1,4 +1,4 @@
-# GenreGeneratorJava
+# Genre Generator
 Android App @ https://play.google.com/store/apps/details?id=com.rekapper.genregenerator
 Discover new music genres, listen to music and share or tweet them to your friends. Built in tools to tweet directly with hashtags. Easy to use Youtube links to the genre by search with the top results for that genre listing. With over 5000 different generated combinations and more to arrive in the future with demand. Try to generate normal genres like Surf-Rock or try to even find obscure never tried before genres like Sunshine-Trance and challenge your friends to make a song in that genre.
 ## Java Source ##
